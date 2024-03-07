@@ -1,0 +1,6 @@
+[submodule "finger_digit_identification"]
+	path = finger_digit_identification
+	url = git@github.com:jpsnir/finger_digit_identification.git
+[submodule "legged_robotics"]
+	path = legged_robotics
+	url = git@github.com:jpsnir/legged_robotics.git
